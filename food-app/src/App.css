@@ -303,7 +303,7 @@ h1 {
   
   
   h1 {
-    font-size: 6rem;
+    font-size: 4rem;
     letter-spacing: .1rem;
     font-style: italic;
     color: #40b48e;
@@ -313,7 +313,7 @@ h1 {
   }
 
   .search-form {
-    width: 50rem;
+    width: 30rem;
     height: 5rem;
     display: flex;
     justify-content: center;
